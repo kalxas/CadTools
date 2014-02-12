@@ -799,9 +799,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="1240.3844"
-     inkscape:cy="-1187.8487"
+     inkscape:zoom="0.64"
+     inkscape:cx="2932.8884"
+     inkscape:cy="-588.12344"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -810,7 +810,11 @@
      inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     inkscape:snap-bbox="true" />
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4668" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -5062,50 +5066,6 @@
        inkscape:export-ydpi="9.2700005" />
     <path
        style="fill:none;stroke:#2b5d7f;stroke-width:14.89164448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 1509.3037,2386.2234 0.2194,-226.7097"
-       id="path2477-3"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
-       inkscape:export-xdpi="9.4799995"
-       inkscape:export-ydpi="9.4799995"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="path2567-2-6"
-       sodipodi:cx="233.1257"
-       sodipodi:cy="728.0835"
-       sodipodi:rx="8.0666332"
-       sodipodi:ry="8.0666332"
-       d="m 241.19234,728.0835 a 8.0666332,8.0666332 0 1 1 -16.13327,0 8.0666332,8.0666332 0 1 1 16.13327,0 z"
-       transform="matrix(2.3904782,0,0,2.3904782,989.91281,534.04153)"
-       inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
-       inkscape:export-xdpi="9.4799995"
-       inkscape:export-ydpi="9.4799995" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="path2569-9-3"
-       sodipodi:cx="233.1257"
-       sodipodi:cy="728.0835"
-       sodipodi:rx="8.0666332"
-       sodipodi:ry="8.0666332"
-       d="m 241.19234,728.0835 a 8.0666332,8.0666332 0 1 1 -16.13327,0 8.0666332,8.0666332 0 1 1 16.13327,0 z"
-       transform="matrix(2.3904782,0,0,2.3904782,989.91281,454.65739)"
-       inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
-       inkscape:export-xdpi="9.4799995"
-       inkscape:export-ydpi="9.4799995" />
-    <path
-       style="fill:none;stroke:#2b5d7f;stroke-width:4.19700000000000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999994999999990;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow2Lstart);display:inline"
-       d="m 1528.4275,2347.9861 181.6432,0.1595"
-       id="path2477-8"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
-       inkscape:export-xdpi="9.4799995"
-       inkscape:export-ydpi="9.4799995"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#2b5d7f;stroke-width:14.89164448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 1720.0251,2663.8995 -0.2194,-226.7097"
        id="path2477-3-5"
        sodipodi:nodetypes="cc"
@@ -5339,5 +5299,1285 @@
        id="path3224-5"
        style="fill:#c8e6fa;fill-opacity:1;stroke:#ff0000;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:7.65660095;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="path3419-2-4-1"
+       sodipodi:cx="829.19739"
+       sodipodi:cy="1347.9297"
+       sodipodi:rx="61.928421"
+       sodipodi:ry="61.928421"
+       d="m 870.79871,1393.8041 a 61.928421,61.928421 0 0 1 -53.08182,14.9806"
+       sodipodi:start="0.83420794"
+       sodipodi:end="1.7572582"
+       transform="matrix(-1.2689734,-0.65891991,1.5229188,-0.55345367,170.95537,3592.2031)"
+       inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+       inkscape:export-xdpi="9.4799995"
+       inkscape:export-ydpi="9.4799995"
+       sodipodi:open="true" />
+    <text
+       xml:space="preserve"
+       style="font-size:59.45890427px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+       x="1310.1277"
+       y="2378.3257"
+       id="text3208-7-9-0-1"
+       inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+       inkscape:export-xdpi="9.4799995"
+       inkscape:export-ydpi="9.4799995"><tspan
+         sodipodi:role="line"
+         id="tspan3210-5-4-8-49"
+         x="1310.1277"
+         y="2378.3257"
+         style="font-size:83.24246216px;font-weight:bold;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Bold">T</tspan></text>
+    <rect
+       inkscape:export-ydpi="9.4799995"
+       inkscape:export-xdpi="9.4799995"
+       inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+       ry="18.303835"
+       y="2302.7334"
+       x="1295.4982"
+       height="88.129578"
+       width="88.129578"
+       id="rect3399-6-4-1"
+       style="fill:#5a8c5a;fill-opacity:1;stroke:#5a8c5a;stroke-width:6.31385612;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+    <path
+       style="fill:none;stroke:#559ccf;stroke-width:9.98777676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.98823529;stroke-dasharray:none;display:inline"
+       d="m 1185.1149,2354.2211 0.5907,-184.8062"
+       id="path3318-8-4-7"
+       inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+       inkscape:export-xdpi="9.4799995"
+       inkscape:export-ydpi="9.4799995"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#2b5d7f;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1186.4066,2370.9635 140.9796,-118.2832"
+       id="path3318-8-6-2-9"
+       inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+       inkscape:export-xdpi="9.4799995"
+       inkscape:export-ydpi="9.4799995"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="9.4799995"
+       inkscape:export-xdpi="9.4799995"
+       inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+       transform="matrix(2.1854838,-0.96852803,0.96852803,2.1854838,-30.412075,1004.4139)"
+       d="m 241.19234,728.0835 a 8.0666332,8.0666332 0 1 1 -16.13327,0 8.0666332,8.0666332 0 1 1 16.13327,0 z"
+       sodipodi:ry="8.0666332"
+       sodipodi:rx="8.0666332"
+       sodipodi:cy="728.0835"
+       sodipodi:cx="233.1257"
+       id="path3326-1-7-2"
+       style="fill:#c8e6fa;fill-opacity:1;stroke:#2b5d7f;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="9.4799995"
+       inkscape:export-xdpi="9.4799995"
+       inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+       transform="matrix(2.2888567,0.68958036,-0.68958036,2.2888567,1305.9597,417.8777)"
+       d="m 241.19234,728.0835 a 8.0666332,8.0666332 0 1 1 -16.13327,0 8.0666332,8.0666332 0 1 1 16.13327,0 z"
+       sodipodi:ry="8.0666332"
+       sodipodi:rx="8.0666332"
+       sodipodi:cy="728.0835"
+       sodipodi:cx="233.1257"
+       id="path3328-0-3-7-0"
+       style="fill:#c8e6fa;fill-opacity:1;stroke:#2b5d7f;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       sodipodi:type="arc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1268.9768,2237.1768 10.8382,38.7078 -43.3527,1.0322"
+       id="path4825-5-6"
+       inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+       inkscape:export-xdpi="9.4799995"
+       inkscape:export-ydpi="9.4799995"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:96.13713837px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:CadastraSymbol;-inkscape-font-specification:CadastraSymbol"
+       x="1320.0945"
+       y="2382.2139"
+       id="text4942-8"
+       inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+       inkscape:export-xdpi="9.4799995"
+       inkscape:export-ydpi="9.4799995"><tspan
+         sodipodi:role="line"
+         id="tspan4944-3"
+         x="1320.0945"
+         y="2382.2139"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:86.57884216px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:CadastraSymbol;-inkscape-font-specification:CadastraSymbol"
+       x="1198.5095"
+       y="2230.217"
+       id="text4950-1"
+       inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+       inkscape:export-xdpi="9.4799995"
+       inkscape:export-ydpi="9.4799995"><tspan
+         sodipodi:role="line"
+         id="tspan4952-1"
+         x="1198.5095"
+         y="2230.217"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ff0000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Az</tspan></text>
+    <g
+       id="g4691"
+       transform="translate(-150,124.99998)">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="9.4799995"
+         inkscape:export-xdpi="9.4799995"
+         inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+         sodipodi:nodetypes="cc"
+         id="path2477-8"
+         d="m 1525,2347.3622 190,0"
+         style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="9.4799995"
+         inkscape:export-xdpi="9.4799995"
+         inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+         id="path4825-5-6-9"
+         d="m 1565,2322.3622 -40,25 40,25"
+         style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
+    <g
+       id="g5718"
+       transform="translate(368.52499,-528.37403)"
+       inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+       inkscape:export-xdpi="9"
+       inkscape:export-ydpi="9">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="9.4799995"
+         inkscape:export-xdpi="9.4799995"
+         inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+         sodipodi:nodetypes="cc"
+         id="path5720"
+         d="m 1959.3724,2365.7785 0.2186,-227.5376"
+         style="fill:none;stroke:#ff0000;stroke-width:10.00076485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10.00076473, 10.00076473;stroke-dashoffset:0;display:inline" />
+      <g
+         id="g5722">
+        <path
+           sodipodi:type="arc"
+           style="fill:#c8e6fa;fill-opacity:1;stroke:#2b5d7f;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="path5724"
+           sodipodi:cx="233.1257"
+           sodipodi:cy="728.0835"
+           sodipodi:rx="8.0666332"
+           sodipodi:ry="8.0666332"
+           d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+           transform="matrix(2.3904782,0,0,2.3904782,1402.1998,435.39897)"
+           inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+           inkscape:export-xdpi="9.4799995"
+           inkscape:export-ydpi="9.4799995" />
+        <g
+           id="g5726">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,585.19673)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5728"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             transform="matrix(1.006255,0,0,1,-13.403392,0)"
+             id="g5730">
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline"
+               d="m 1993.0736,2325.6644 146.125,0"
+               id="path5732"
+               sodipodi:nodetypes="cc"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               d="m 2034.1986,2300.6644 -40,25 40,25"
+               id="path5734"
+               inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1558.6336,585.19673)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5736"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+        </g>
+        <g
+           id="g5738">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,510.29781)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5740"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             transform="matrix(1.009657,0,0,1,-20.175357,0)"
+             id="g5742">
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline"
+               d="m 1993.0736,2250.7655 91.125,0"
+               id="path5744"
+               sodipodi:nodetypes="cc"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               d="m 2034.1986,2225.7655 -40,25 40,25"
+               id="path5746"
+               inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1520.1998,510.29781)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5748"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g5718-1"
+       transform="matrix(-1,0,0,1,4810.9976,-528.37403)"
+       inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_right.png"
+       inkscape:export-xdpi="9"
+       inkscape:export-ydpi="9">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="9.4799995"
+         inkscape:export-xdpi="9.4799995"
+         inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+         sodipodi:nodetypes="cc"
+         id="path5720-2"
+         d="m 1959.3724,2365.7785 0.2186,-227.5376"
+         style="fill:none;stroke:#ff0000;stroke-width:10.00076485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10.00076473, 10.00076473;stroke-dashoffset:0;display:inline" />
+      <g
+         id="g5722-7">
+        <path
+           sodipodi:type="arc"
+           style="fill:#c8e6fa;fill-opacity:1;stroke:#2b5d7f;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="path5724-3"
+           sodipodi:cx="233.1257"
+           sodipodi:cy="728.0835"
+           sodipodi:rx="8.0666332"
+           sodipodi:ry="8.0666332"
+           d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+           transform="matrix(2.3904782,0,0,2.3904782,1402.1998,435.39897)"
+           inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+           inkscape:export-xdpi="9.4799995"
+           inkscape:export-ydpi="9.4799995" />
+        <g
+           id="g5726-6">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,585.19673)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5728-6"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             transform="matrix(1.006255,0,0,1,-13.403392,0)"
+             id="g5730-6">
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline"
+               d="m 1993.0736,2325.6644 146.125,0"
+               id="path5732-5"
+               sodipodi:nodetypes="cc"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               d="m 2034.1986,2300.6644 -40,25 40,25"
+               id="path5734-5"
+               inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1558.6336,585.19673)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5736-1"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+        </g>
+        <g
+           id="g5738-5">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,510.29781)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5740-4"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             transform="matrix(1.009657,0,0,1,-20.175357,0)"
+             id="g5742-9">
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline"
+               d="m 1993.0736,2250.7655 91.125,0"
+               id="path5744-8"
+               sodipodi:nodetypes="cc"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               d="m 2034.1986,2225.7655 -40,25 40,25"
+               id="path5746-5"
+               inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1520.1998,510.29781)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5748-0"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g5718-1-9"
+       transform="matrix(0,-1,1,0,1245.6004,3751.5323)"
+       inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_bottom.png"
+       inkscape:export-xdpi="9"
+       inkscape:export-ydpi="9">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="9.4799995"
+         inkscape:export-xdpi="9.4799995"
+         inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+         sodipodi:nodetypes="cc"
+         id="path5720-2-0"
+         d="m 1959.3724,2365.7785 0.2186,-227.5376"
+         style="fill:none;stroke:#ff0000;stroke-width:10.00076485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10.00076473, 10.00076473;stroke-dashoffset:0;display:inline" />
+      <g
+         id="g5722-7-5">
+        <path
+           sodipodi:type="arc"
+           style="fill:#c8e6fa;fill-opacity:1;stroke:#2b5d7f;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="path5724-3-8"
+           sodipodi:cx="233.1257"
+           sodipodi:cy="728.0835"
+           sodipodi:rx="8.0666332"
+           sodipodi:ry="8.0666332"
+           d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+           transform="matrix(2.3904782,0,0,2.3904782,1402.1998,435.39897)"
+           inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+           inkscape:export-xdpi="9.4799995"
+           inkscape:export-ydpi="9.4799995" />
+        <g
+           id="g5726-6-7">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,585.19673)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5728-6-6"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             transform="matrix(1.006255,0,0,1,-13.403392,0)"
+             id="g5730-6-0">
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline"
+               d="m 1993.0736,2325.6644 146.125,0"
+               id="path5732-5-2"
+               sodipodi:nodetypes="cc"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               d="m 2034.1986,2300.6644 -40,25 40,25"
+               id="path5734-5-7"
+               inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1558.6336,585.19673)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5736-1-0"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+        </g>
+        <g
+           id="g5738-5-7">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,510.29781)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5740-4-4"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             transform="matrix(1.009657,0,0,1,-20.175357,0)"
+             id="g5742-9-4">
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline"
+               d="m 1993.0736,2250.7655 91.125,0"
+               id="path5744-8-7"
+               sodipodi:nodetypes="cc"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               d="m 2034.1986,2225.7655 -40,25 40,25"
+               id="path5746-5-8"
+               inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1520.1998,510.29781)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5748-0-8"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g5718-1-9-1"
+       transform="matrix(0,1,1,0,882.46065,-316.03077)"
+       inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_top.png"
+       inkscape:export-xdpi="9"
+       inkscape:export-ydpi="9">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="9.4799995"
+         inkscape:export-xdpi="9.4799995"
+         inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+         sodipodi:nodetypes="cc"
+         id="path5720-2-0-5"
+         d="m 1959.3724,2365.7785 0.2186,-227.5376"
+         style="fill:none;stroke:#ff0000;stroke-width:10.00076485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10.00076473, 10.00076473;stroke-dashoffset:0;display:inline" />
+      <g
+         id="g5722-7-5-1">
+        <path
+           sodipodi:type="arc"
+           style="fill:#c8e6fa;fill-opacity:1;stroke:#2b5d7f;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           id="path5724-3-8-7"
+           sodipodi:cx="233.1257"
+           sodipodi:cy="728.0835"
+           sodipodi:rx="8.0666332"
+           sodipodi:ry="8.0666332"
+           d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+           transform="matrix(2.3904782,0,0,2.3904782,1402.1998,435.39897)"
+           inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+           inkscape:export-xdpi="9.4799995"
+           inkscape:export-ydpi="9.4799995" />
+        <g
+           id="g5726-6-7-4">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,585.19673)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5728-6-6-9"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             transform="matrix(1.006255,0,0,1,-13.403392,0)"
+             id="g5730-6-0-5">
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline"
+               d="m 1993.0736,2325.6644 146.125,0"
+               id="path5732-5-2-9"
+               sodipodi:nodetypes="cc"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               d="m 2034.1986,2300.6644 -40,25 40,25"
+               id="path5734-5-7-0"
+               inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1558.6336,585.19673)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5736-1-0-0"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+        </g>
+        <g
+           id="g5738-5-7-3">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,510.29781)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5740-4-4-0"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             transform="matrix(1.009657,0,0,1,-20.175357,0)"
+             id="g5742-9-4-1">
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline"
+               d="m 1993.0736,2250.7655 91.125,0"
+               id="path5744-8-7-1"
+               sodipodi:nodetypes="cc"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               d="m 2034.1986,2225.7655 -40,25 40,25"
+               id="path5746-5-8-2"
+               inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1520.1998,510.29781)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5748-0-8-0"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,5179.5226,-282.21104)"
+       style="display:inline"
+       id="g6069-0">
+      <rect
+         inkscape:export-ydpi="78.749687"
+         inkscape:export-xdpi="78.749687"
+         inkscape:export-filename="/home/stefan/Downloads/cadtools_html5/images/pointandline.png"
+         ry="0"
+         y="1609.4517"
+         x="2293.9053"
+         height="228.36803"
+         width="228.57231"
+         id="rect3203-85-1-8"
+         style="fill:#e4e4e4;fill-opacity:1;stroke:none;display:inline" />
+      <g
+         inkscape:export-ydpi="9"
+         inkscape:export-xdpi="9"
+         inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+         transform="translate(368.52499,-528.37403)"
+         id="g5718-6">
+        <path
+           style="fill:none;stroke:#ff0000;stroke-width:10.00076485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10.00076473, 10.00076473;stroke-dashoffset:0;display:inline"
+           d="m 1959.3724,2365.7785 0.2186,-227.5376"
+           id="path5720-22"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+           inkscape:export-xdpi="9.4799995"
+           inkscape:export-ydpi="9.4799995"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g5722-6">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,435.39897)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5724-2"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#2b5d7f;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             id="g5726-1">
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5728-0"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1402.1998,585.19673)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+            <g
+               id="g5730-9"
+               transform="matrix(1.006255,0,0,1,-13.403392,0)">
+              <path
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+                 sodipodi:nodetypes="cc"
+                 id="path5732-1"
+                 d="m 1993.0736,2325.6644 146.125,0"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="ccc"
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+                 id="path5734-0"
+                 d="m 2034.1986,2300.6644 -40,25 40,25"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+            </g>
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5736-7"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1558.6336,585.19673)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+          </g>
+          <g
+             id="g5738-2">
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5740-5"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1402.1998,510.29781)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+            <g
+               id="g5742-0"
+               transform="matrix(1.009657,0,0,1,-20.175357,0)">
+              <path
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+                 sodipodi:nodetypes="cc"
+                 id="path5744-2"
+                 d="m 1993.0736,2250.7655 91.125,0"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="ccc"
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+                 id="path5746-9"
+                 d="m 2034.1986,2225.7655 -40,25 40,25"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+            </g>
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5748-9"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1520.1998,510.29781)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(0,-285.33599)"
+       style="display:inline"
+       id="g6069-7">
+      <rect
+         inkscape:export-ydpi="78.749687"
+         inkscape:export-xdpi="78.749687"
+         inkscape:export-filename="/home/stefan/Downloads/cadtools_html5/images/pointandline.png"
+         ry="0"
+         y="1609.4517"
+         x="2293.9053"
+         height="228.36803"
+         width="228.57231"
+         id="rect3203-85-1-1"
+         style="fill:#e4e4e4;fill-opacity:1;stroke:none;display:inline" />
+      <g
+         inkscape:export-ydpi="9"
+         inkscape:export-xdpi="9"
+         inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+         transform="translate(368.52499,-528.37403)"
+         id="g5718-0">
+        <path
+           style="fill:none;stroke:#ff0000;stroke-width:10.00076485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10.00076473, 10.00076473;stroke-dashoffset:0;display:inline"
+           d="m 1959.3724,2365.7785 0.2186,-227.5376"
+           id="path5720-7"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+           inkscape:export-xdpi="9.4799995"
+           inkscape:export-ydpi="9.4799995"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g5722-62">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,435.39897)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5724-8"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#2b5d7f;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             id="g5726-7">
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5728-61"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1402.1998,585.19673)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+            <g
+               id="g5730-0"
+               transform="matrix(1.006255,0,0,1,-13.403392,0)">
+              <path
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+                 sodipodi:nodetypes="cc"
+                 id="path5732-6"
+                 d="m 1993.0736,2325.6644 146.125,0"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="ccc"
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+                 id="path5734-1"
+                 d="m 2034.1986,2300.6644 -40,25 40,25"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+            </g>
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5736-0"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1558.6336,585.19673)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+          </g>
+          <g
+             id="g5738-3">
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5740-42"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1402.1998,510.29781)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+            <g
+               id="g5742-1"
+               transform="matrix(1.009657,0,0,1,-20.175357,0)">
+              <path
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+                 sodipodi:nodetypes="cc"
+                 id="path5744-86"
+                 d="m 1993.0736,2250.7655 91.125,0"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="ccc"
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+                 id="path5746-3"
+                 d="m 2034.1986,2225.7655 -40,25 40,25"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+            </g>
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5748-7"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1520.1998,510.29781)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0,1,1,0,1410.8347,-966.7668)"
+       style="display:inline"
+       id="g6069-0-7">
+      <rect
+         inkscape:export-ydpi="78.749687"
+         inkscape:export-xdpi="78.749687"
+         inkscape:export-filename="/home/stefan/Downloads/cadtools_html5/images/pointandline.png"
+         ry="0"
+         y="1609.4517"
+         x="2293.9053"
+         height="228.36803"
+         width="228.57231"
+         id="rect3203-85-1-8-3"
+         style="fill:#e4e4e4;fill-opacity:1;stroke:none;display:inline" />
+      <g
+         inkscape:export-ydpi="9"
+         inkscape:export-xdpi="9"
+         inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+         transform="translate(368.52499,-528.37403)"
+         id="g5718-6-4">
+        <path
+           style="fill:none;stroke:#ff0000;stroke-width:10.00076485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10.00076473, 10.00076473;stroke-dashoffset:0;display:inline"
+           d="m 1959.3724,2365.7785 0.2186,-227.5376"
+           id="path5720-22-9"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+           inkscape:export-xdpi="9.4799995"
+           inkscape:export-ydpi="9.4799995"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g5722-6-0">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,435.39897)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5724-2-4"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#2b5d7f;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             id="g5726-1-1">
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5728-0-2"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1402.1998,585.19673)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+            <g
+               id="g5730-9-4"
+               transform="matrix(1.006255,0,0,1,-13.403392,0)">
+              <path
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+                 sodipodi:nodetypes="cc"
+                 id="path5732-1-8"
+                 d="m 1993.0736,2325.6644 146.125,0"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="ccc"
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+                 id="path5734-0-5"
+                 d="m 2034.1986,2300.6644 -40,25 40,25"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+            </g>
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5736-7-6"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1558.6336,585.19673)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+          </g>
+          <g
+             id="g5738-2-8">
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5740-5-1"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1402.1998,510.29781)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+            <g
+               id="g5742-0-8"
+               transform="matrix(1.009657,0,0,1,-20.175357,0)">
+              <path
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+                 sodipodi:nodetypes="cc"
+                 id="path5744-2-8"
+                 d="m 1993.0736,2250.7655 91.125,0"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="ccc"
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+                 id="path5746-9-1"
+                 d="m 2034.1986,2225.7655 -40,25 40,25"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+            </g>
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5748-9-6"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1520.1998,510.29781)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,1773.9744,3849.6161)"
+       style="display:inline"
+       id="g6069-0-7-1">
+      <rect
+         inkscape:export-ydpi="78.749687"
+         inkscape:export-xdpi="78.749687"
+         inkscape:export-filename="/home/stefan/Downloads/cadtools_html5/images/pointandline.png"
+         ry="0"
+         y="1609.4517"
+         x="2293.9053"
+         height="228.36803"
+         width="228.57231"
+         id="rect3203-85-1-8-3-1"
+         style="fill:#e4e4e4;fill-opacity:1;stroke:none;display:inline" />
+      <g
+         inkscape:export-ydpi="9"
+         inkscape:export-xdpi="9"
+         inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+         transform="translate(368.52499,-528.37403)"
+         id="g5718-6-4-3">
+        <path
+           style="fill:none;stroke:#ff0000;stroke-width:10.00076485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:10.00076473, 10.00076473;stroke-dashoffset:0;display:inline"
+           d="m 1959.3724,2365.7785 0.2186,-227.5376"
+           id="path5720-22-9-5"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+           inkscape:export-xdpi="9.4799995"
+           inkscape:export-ydpi="9.4799995"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g5722-6-0-2">
+          <path
+             inkscape:export-ydpi="9.4799995"
+             inkscape:export-xdpi="9.4799995"
+             inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+             transform="matrix(2.3904782,0,0,2.3904782,1402.1998,435.39897)"
+             d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+             sodipodi:ry="8.0666332"
+             sodipodi:rx="8.0666332"
+             sodipodi:cy="728.0835"
+             sodipodi:cx="233.1257"
+             id="path5724-2-4-8"
+             style="fill:#c8e6fa;fill-opacity:1;stroke:#2b5d7f;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+             sodipodi:type="arc" />
+          <g
+             id="g5726-1-1-9">
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5728-0-2-6"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1402.1998,585.19673)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+            <g
+               id="g5730-9-4-9"
+               transform="matrix(1.006255,0,0,1,-13.403392,0)">
+              <path
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+                 sodipodi:nodetypes="cc"
+                 id="path5732-1-8-9"
+                 d="m 1993.0736,2325.6644 146.125,0"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="ccc"
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+                 id="path5734-0-5-2"
+                 d="m 2034.1986,2300.6644 -40,25 40,25"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+            </g>
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5736-7-6-4"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1558.6336,585.19673)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+          </g>
+          <g
+             id="g5738-2-8-7">
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5740-5-1-9"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1402.1998,510.29781)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+            <g
+               id="g5742-0-8-9"
+               transform="matrix(1.009657,0,0,1,-20.175357,0)">
+              <path
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+                 sodipodi:nodetypes="cc"
+                 id="path5744-2-8-3"
+                 d="m 1993.0736,2250.7655 91.125,0"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.79999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;display:inline" />
+              <path
+                 sodipodi:nodetypes="ccc"
+                 inkscape:connector-curvature="0"
+                 inkscape:export-ydpi="9.4799995"
+                 inkscape:export-xdpi="9.4799995"
+                 inkscape:export-filename="/home/stefan/.qgis/python/plugins/cadtools/icons/showazimuth.png"
+                 id="path5746-9-1-9"
+                 d="m 2034.1986,2225.7655 -40,25 40,25"
+                 style="fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+            </g>
+            <path
+               sodipodi:type="arc"
+               style="fill:#c8e6fa;fill-opacity:1;stroke:#559ccf;stroke-width:4.23113489;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+               id="path5748-9-6-9"
+               sodipodi:cx="233.1257"
+               sodipodi:cy="728.0835"
+               sodipodi:rx="8.0666332"
+               sodipodi:ry="8.0666332"
+               d="m 241.19234,728.0835 c 0,4.45507 -3.61156,8.06663 -8.06664,8.06663 -4.45508,0 -8.06663,-3.61156 -8.06663,-8.06663 0,-4.45508 3.61155,-8.06664 8.06663,-8.06664 4.45508,0 8.06664,3.61156 8.06664,8.06664 z"
+               transform="matrix(2.3904782,0,0,2.3904782,1520.1998,510.29781)"
+               inkscape:export-filename="/home/linux/gittest/CadTools/icons/alignnode_left.png"
+               inkscape:export-xdpi="9.4799995"
+               inkscape:export-ydpi="9.4799995" />
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>

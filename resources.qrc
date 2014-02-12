@@ -85,6 +85,20 @@
     </qresource>       
      <qresource prefix="/plugins/cadtools" >
         <file>icons/spline.png</file>
-    </qresource>       
-
+    </qresource>
+    <qresource prefix="/plugins/cadtools" >
+        <file>icons/selectXpoints.png</file>
+    </qresource>
+    <qresource prefix="/plugins/cadtools" >
+        <file>icons/alignnode_left.png</file>
+    </qresource> 
+    <qresource prefix="/plugins/cadtools" >
+        <file>icons/alignnode_right.png</file>
+    </qresource> 
+    <qresource prefix="/plugins/cadtools" >
+        <file>icons/alignnode_top.png</file>
+    </qresource>  
+    <qresource prefix="/plugins/cadtools" >
+        <file>icons/alignnode_bottom.png</file>
+    </qresource> 
 </RCC>

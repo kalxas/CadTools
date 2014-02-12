@@ -24,6 +24,7 @@ from tools.horizontalverticaldigitizertool import HorizontalVerticalDigitizerToo
 from tools.orthogonaltraversetool import OrthogonalTraverseTool
 from tools.circulararcdigitizertool import CircularArcDigitizerTool
 from tools.splinetool import SplineTool
+from tools.alignnodetool import alignNodeTool
 from tools.cadtoolssettingsgui import CadToolsSettingsGui
 from cadtoolsaboutgui import CadToolsAboutGui
 
@@ -95,6 +96,7 @@ class CadTools:
         self.modifycirculararc = ModifyCircularArcTool(self.iface,  self.toolBar)
         self.circulararcdigitizer = CircularArcDigitizerTool(self.iface,  self.toolBar)      
         self.spline = SplineTool(self.iface,  self.toolBar)
+        self.alignnode = alignNodeTool(self.iface,  self.toolBar)
         self.hovedigitizer = HorizontalVerticalDigitizerTool(self.iface, self.toolBar)
         self.orthogonaldigitizer = OrthogonalDigitizerTool(self.iface,  self.toolBar, self.menu)
         
